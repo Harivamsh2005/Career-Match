@@ -1,0 +1,12 @@
+**/node_modules
+**/dist
+.git
+.gitignore
+.dockerignore
+.env
+**/.env
+backend/users.json
+*.pdf
+README.md
+docker-compose*.yml
+Dockerfile
